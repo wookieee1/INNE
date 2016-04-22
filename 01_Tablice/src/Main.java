@@ -28,5 +28,7 @@ public static void main(String[] args) {
 	for (int i = 0; i < tab.length; i++) {
 		System.out.println(tab[i]);
 	}
+	
+	System.out.println("HAHAHA");
 }
 }
